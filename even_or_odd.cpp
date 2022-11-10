@@ -2,7 +2,7 @@
 //
 // Created by: Joanne Santhosh
 // Created on: Nov 2022
-// This program uses while loops
+// This program identifies if a number is even or odd
 
 #include <iostream>
 #include <string>
